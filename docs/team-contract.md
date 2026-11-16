@@ -8,10 +8,11 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
-| | @ | Backend lead | | |
-| | @ | Frontend lead | | |
-| | @ | Quality and DevOps lead | | |
+| Prottay Debnath | @dashProDeb | Team lead / Scrum master | fast adaptibility | Distributed System |
+| Epshita Solaiman Sara | @Epshita-Solaiman | Database Engineer |  |  |
+| Sajib Biswas | @Sajib-Biswas-07 | Backend lead |  | |
+| Md. Sadruddin Maruf | @mdmaruf78 | Frontend lead | | |
+| Rafiur Rahman Rafi | @RafiRahman35 |  | | |
 
 ## Communication
 
